@@ -1,1 +1,10 @@
 
+body{
+    min-height: 100vh;
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#b9c94e+0,2c420c+50,122402+100 */
+    background: #b9c94e; /* Old browsers */
+    background: -moz-linear-gradient(-45deg,  #b9c94e 0%, #2c420c 50%, #122402 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(-45deg,  #b9c94e 0%,#2c420c 50%,#122402 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(135deg,  #b9c94e 0%,#2c420c 50%,#122402 70%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b9c94e', endColorstr='#122402',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
